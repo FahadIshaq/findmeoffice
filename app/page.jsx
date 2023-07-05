@@ -21,6 +21,7 @@ const UnderConstruction = () => {
           <p style={styles.text}>We are building something amazing!</p>
           <p style={styles.text}>Our website is under construction.</p>
           <p style={styles.text}>Stay tuned for updates.</p>
+          <p style={styles.text}>Developed by Fahad and Vania</p>
         </div>
       </div>
     </div>
